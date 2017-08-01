@@ -9,7 +9,7 @@ public class SampleController {
 
     @GetMapping("/api/hello")
     public String hello() {
-        return "Hello From Spring Boot2017";
+        return "Hello From Spring Boot2017 - Adding Just For Testing Purpose ";
     }
 
 }
